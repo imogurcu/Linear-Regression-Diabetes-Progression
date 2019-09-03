@@ -61,19 +61,3 @@ plt.scatter(X_test, y_test,  c='g')
 plt.plot(X_test, diabetes_y_pred, linewidth=2)
 plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
